@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+<a href="/images/apple.jpg" target="_top">
+<img src="/images/apple.jpg" alt="Apple" />
+</a>
+<p>
+Click on the image to see it in the browser by itself.
+</p>
+</body>
+</html>
